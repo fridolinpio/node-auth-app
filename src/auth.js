@@ -1,1 +1,2 @@
-console.log("Main version");
+const message = "Login version";
+module.exports = message;
