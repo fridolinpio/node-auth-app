@@ -1,1 +1,2 @@
-console.log("Main version");
+const message = "Test version";
+module.exports = message;
