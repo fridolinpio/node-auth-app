@@ -1,3 +1,3 @@
-const loginMessage = "Login feature";
+const message = "Login and Test version";
 
-module.exports = loginMessage;
+module.exports = message;
